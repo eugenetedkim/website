@@ -1,3 +1,28 @@
+What I did:
+
+```
+npm install -g @vue/cli
+```
+```
+vue create website
+```
+```
+cd website
+```
+```
+npm run serve
+```
+
+Netlify
+Click New Site from Git
+-Connect to Github
+-Pick a repo
+-Build command: npm run build
+-Public directory: dist
+Deploy Site
+
+
+
 # website
 
 ## Project setup
@@ -22,26 +47,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-What I did:
-
-```
-npm install -g @vue/cli
-```
-```
-vue create website
-```
-```cd website
-```
-```
-npm run serve
-```
-
-Netlify
-Click New Site from Git
--Connect to Github
--Pick a repo
--Build command: npm run build
--Public directory: dist
-Deploy Site
-
