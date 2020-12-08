@@ -1,4 +1,4 @@
-# [website](https://dazzling-hodgkin-843df5.netlify.app/)
+# [website](https://dazzling-hodgkin-843df5.netlify.app/) {:target="_blank"}
 
 ## Project setup
 
