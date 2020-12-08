@@ -27,6 +27,8 @@ npm run serve
 #### -Public directory: dist
 ### Deploy Site
 
+[Demo](https://dazzling-hodgkin-843df5.netlify.app/)
+
 ## 
 ### Compiles and minifies for production
 ```
