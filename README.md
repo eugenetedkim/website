@@ -1,6 +1,6 @@
 # website
 
-## What I did:
+## Project setup
 
 ```
 npm install -g @vue/cli
@@ -8,9 +8,13 @@ npm install -g @vue/cli
 ```
 vue create website
 ```
+
+
 ```
 cd website
 ```
+
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
@@ -22,18 +26,6 @@ npm run serve
 #### -Build command: npm run build
 #### -Public directory: dist
 ### Deploy Site
-
-
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
 ### Compiles and minifies for production
 ```
