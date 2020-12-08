@@ -1,4 +1,4 @@
-# website
+# [website](https://dazzling-hodgkin-843df5.netlify.app/)
 
 ## Project setup
 
@@ -26,8 +26,6 @@ npm run serve
 #### -Build command: npm run build
 #### -Public directory: dist
 ### Deploy Site
-
-[Demo](https://dazzling-hodgkin-843df5.netlify.app/)
 
 ## 
 ### Compiles and minifies for production
