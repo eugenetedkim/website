@@ -27,6 +27,7 @@ npm run serve
 #### -Public directory: dist
 ### Deploy Site
 
+## 
 ### Compiles and minifies for production
 ```
 npm run build
