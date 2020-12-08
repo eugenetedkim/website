@@ -1,4 +1,6 @@
-What I did:
+# website
+
+## What I did:
 
 ```
 npm install -g @vue/cli
@@ -13,17 +15,15 @@ cd website
 npm run serve
 ```
 
-Netlify
-Click New Site from Git
--Connect to Github
--Pick a repo
--Build command: npm run build
--Public directory: dist
-Deploy Site
+## Netlify
+### Click New Site from Git
+#### -Connect to Github
+#### -Pick a repo
+#### -Build command: npm run build
+#### -Public directory: dist
+### Deploy Site
 
 
-
-# website
 
 ## Project setup
 ```
